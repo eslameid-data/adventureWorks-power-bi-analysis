@@ -23,15 +23,15 @@ The project is designed to support business stakeholders such as sales leadershi
 
 ## Dashboard Preview
 
-![Customer Analysis Dashboard](dashboard/Customer Analysis_Dashboard.png)
+![Executive Overview](dashboard/executive-overview.png)
 
-![Executive Overview Dashboard](dashboard/Executive Overview_Dashboard.png)
+![Customer Analysis](dashboard/customer-analysis.png)
 
-![Product Performance Analysis Dashboard](dashboard/Product Performance Analysis_Dashboard.png)
+![Product Performance Analysis](dashboard/product-performance-analysis.png)
 
-![Territory Analysis Dashboard](dashboard/Territory Analysis_Dashboard.png)
+![Territory Analysis](dashboard/territory-analysis.png)
 
-![Time Analysis Dashboard](dashboard/Time Analysis_Dashboard.png)
+![Time Analysis](dashboard/time-analysis.png)
 
 ## Dataset Description
 
