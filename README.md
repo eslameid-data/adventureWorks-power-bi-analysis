@@ -21,6 +21,18 @@ The project is designed to support business stakeholders such as sales leadershi
 - What are the current YTD and running-total sales positions?
 - Which products and customers contribute most to overall performance?
 
+## Dashboard Preview
+
+![Customer Analysis Dashboard](dashboard/Customer Analysis_Dashboard.png)
+
+![Executive Overview Dashboard](dashboard/Executive Overview_Dashboard.png)
+
+![Product Performance Analysis Dashboard](dashboard/Product Performance Analysis_Dashboard.png)
+
+![Territory Analysis Dashboard](dashboard/Territory Analysis_Dashboard.png)
+
+![Time Analysis Dashboard](dashboard/Time Analysis_Dashboard.png)
+
 ## Dataset Description
 
 Source: `AdventureWorks Sales.xlsx`
